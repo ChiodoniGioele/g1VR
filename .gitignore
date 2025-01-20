@@ -71,7 +71,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 # macOS Finder folder settings
 .DS_Store
 
 .*
+=======
+>>>>>>> 0c43dcb2993a3bbba25f54f36aa3e8ad4a149593

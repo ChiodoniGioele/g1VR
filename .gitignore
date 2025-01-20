@@ -1,0 +1,44 @@
+# Unity generated files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Tt]emp/
+[Ll]ibrary/
+[Ll]og/
+[Mm]emoryCaptures/
+.vscode/
+
+# User-specific files
+.idea/
+.vs/
+.userprefs
+
+# Build results
+Build/
+Builds/
+*/Build/
+*/Builds/
+
+# User-specific directories
+UserSettings/
+
+# Asset meta data files
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.sln
+*.suo
+*.tmp
+*.svd
+
+# JetBrains Rider
+.idea/
+
+# Uncomment this line if you have unity cloud build enabled
+# .cloudbuild/
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# macOS Finder folder settings
+.DS_Store
